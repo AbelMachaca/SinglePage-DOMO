@@ -14,7 +14,7 @@ function Home () {
                 </p>
               </div>
             </div>
-            <img className='img-fluid' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/t5_d5jp9p.png' alt='...' />
+            <img className='img-fluid' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/t5_d5jp9p.png' alt='montaña con niebla' />
           </div>
         </section>
         {/* Projects */}
@@ -22,7 +22,7 @@ function Home () {
           <div className='container px-4 px-lg-5'>
             {/* Featured Project Row */}
             <div className='row gx-0 mb-4 mb-lg-5 align-items-center'>
-              <div className='col-xl-8 col-lg-7'><img className='img-fluid mb-3 mb-lg-0' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/bg-masthead_dyf8vv.jpg' alt='...' /></div>
+              <div className='col-xl-8 col-lg-7'><img className='img-fluid mb-3 mb-lg-0' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/bg-masthead_dyf8vv.jpg' alt='montaña con niebla' /></div>
               <div className='col-xl-4 col-lg-5'>
                 <div className='featured-text text-center text-lg-left'>
                   <h4>Shoreline</h4>
@@ -32,7 +32,7 @@ function Home () {
             </div>
             {/* Project One Row */}
             <div className='row gx-0 mb-5 mb-lg-0 justify-content-center'>
-              <div className='col-lg-6'><img className='img-fluid' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/demo-image-01_chfh8z.jpg' alt='...' /></div>
+              <div className='col-lg-6'><img className='img-fluid' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/demo-image-01_chfh8z.jpg' alt='montaña con niebla' /></div>
               <div className='col-lg-6'>
                 <div className='bg-black text-center h-100 project'>
                   <div className='d-flex h-100'>
@@ -46,7 +46,7 @@ function Home () {
             </div>
             {/* Project Two Row */}
             <div className='row gx-0 justify-content-center'>
-              <div className='col-lg-6'><img className='img-fluid' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/demo-image-02_kd12ck.jpg' alt='...' /></div>
+              <div className='col-lg-6'><img className='img-fluid' src='https://res.cloudinary.com/dsuuinvqp/image/upload/v1715290166/Domo%20Desafio/demo-image-02_kd12ck.jpg' alt='montaña con niebla' /></div>
               <div className='col-lg-6 order-lg-first'>
                 <div className='bg-black text-center h-100 project'>
                   <div className='d-flex h-100'>
@@ -99,7 +99,7 @@ function Home () {
                     <i className='fas fa-envelope text-primary mb-2' />
                     <h4 className='text-uppercase m-0'>Email</h4>
                     <hr className='my-4 mx-auto' />
-                    <div className='small text-black-50'><a href='#!'>hola@gmail.com</a></div>
+                    <div className='small text-black-50'><a href='#'>hola@gmail.com</a></div>
                   </div>
                 </div>
               </div>

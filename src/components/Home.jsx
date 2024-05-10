@@ -6,8 +6,8 @@ function Home () {
         <section className='about-section text-center' id='about'>
           <div className='container px-4 px-lg-5'>
             <div className='row gx-4 gx-lg-5 justify-content-center'>
-              <div className='col-lg-8'>
-                <h2 className='text-white mb-4'>We do everything. We are DOMO.</h2>
+              <div className='col-lg-8 domo'>
+                <h2 className='text-white mb-4 ' data-aos='fade-right'>We do everything. <span className='spa'>We are DOMO.</span> </h2>
                 <p className='text-white-50'>
                   We promote the strategy and the solution, we design brands, we develop websites, design UX-UI, create applications, launch campaigns, tell stories, do digital marketing, train teams in deferents platforms and more.
                   In all things, we are focused on solutions for our visionary clients to create experiences that promote your needs for the future of your company.

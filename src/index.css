@@ -148,7 +148,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #FFF500;
   }
 }
 .projects-section .project-text {
@@ -195,7 +195,7 @@
 }
 .contact-section .card hr {
   opacity: 1;
-  border-color: #64a19d;
+  border-color: #FFF500;
   border-width: 0.25rem;
   width: 3rem;
 }

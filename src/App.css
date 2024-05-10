@@ -1,0 +1,33 @@
+.domo .spa{
+
+  padding-bottom: 3rem;
+
+  z-index: 2;
+  position: relative;
+
+}
+
+
+.domo .spa::before{
+  content: '';
+    width: 0;
+    height: 0.30rem;
+    background-color: #FFF500;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: expandWidth .8s forwards;
+}
+
+
+@keyframes expandWidth {
+  0% {
+      width: 0;
+  }
+
+  100% {
+      width: 100%;
+  }
+}
